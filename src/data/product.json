@@ -1,0 +1,252 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Matte Liquid Lipstick",
+      "price": 22.99,
+      "offerPrice": 18.99,
+      "image": "/kay-nail-polish2.png",
+      "images": [
+        "/kay-nail-polish2.png",
+        "/kay-nail-polish2.png",
+        "/kay-nail-polish2.png",
+        "/kay-nail-polish2.png",
+        "/kay-nail-polish2.png"
+      ],
+      "category": "Makeup",
+      "rating": 4.4,
+      "testimonials": [
+        {
+          "name": "Priya S.",
+          "text": "The matte lipstick is my new favorite! Stays all day and feels light.",
+          "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Hydrating Face Serum",
+      "price": 34.99,
+      "offerPrice": 29.99,
+      "image": "/facecreme1.png",
+      "images": [
+        "/facecreme1.png",
+        "/facecreme1.png",
+        "/facecreme1.png",
+        "/facecreme1.png"
+      ],
+      "category": "Skincare",
+      "rating": 5.0,
+      "testimonials": [
+        {
+          "name": "Isha N.",
+          "text": "Hydrating face serum made my skin glow!",
+          "avatar": "https://randomuser.me/api/portraits/women/78.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Volumizing Mascara",
+      "price": 19.99,
+      "offerPrice": 15.99,
+      "image": "/matt1.png",
+      "images": [
+        "/matt1.png",
+        "/matt1.png",
+        "/matt1.png",
+        "/matt1.png"
+      ],
+      "category": "Makeup",
+      "rating": 4.1,
+      "testimonials": [
+        {
+          "name": "Aarti P.",
+          "text": "Love the volumizing mascara, my lashes look amazing!",
+          "avatar": "https://randomuser.me/api/portraits/women/81.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Nourishing Shampoo",
+      "price": 16.99,
+      "offerPrice": 12.99,
+      "image": "nourishing-shampoo.jpg",
+      "images": [
+        "nourishing-shampoo.jpg",
+        "nourishing-shampoo-1.jpg",
+        "nourishing-shampoo-2.jpg",
+        "nourishing-shampoo-3.jpg"
+      ],
+      "category": "Haircare",
+      "rating": 3.0,
+      "testimonials": [
+        {
+          "name": "Anjali M.",
+          "text": "Nourishing shampoo made my hair so soft and shiny!",
+          "avatar": "https://randomuser.me/api/portraits/women/70.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Rose Eau de Parfum",
+      "price": 59.99,
+      "offerPrice": 49.99,
+      "image": "rose-eau-de-parfum.jpg",
+      "images": [
+        "rose-eau-de-parfum.jpg",
+        "rose-eau-de-parfum-1.jpg",
+        "rose-eau-de-parfum-2.jpg",
+        "rose-eau-de-parfum-3.jpg"
+      ],
+      "category": "Fragrance",
+      "rating": 4.8,
+      "testimonials": [
+        {
+          "name": "Rashmi V.",
+          "text": "Rose Eau de Parfum smells divine and lasts all day.",
+          "avatar": "https://randomuser.me/api/portraits/women/74.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Moisturizing Day Cream",
+      "price": 27.99,
+      "offerPrice": 22.99,
+      "image": "moisturizing-day-cream.jpg",
+      "images": [
+        "moisturizing-day-cream.jpg",
+        "moisturizing-day-cream-1.jpg",
+        "moisturizing-day-cream-2.jpg",
+        "moisturizing-day-cream-3.jpg"
+      ],
+      "category": "Skincare",
+      "rating": 4.5,
+      "testimonials": [
+        {
+          "name": "Tanvi P.",
+          "text": "Moisturizing day cream is light and non-greasy.",
+          "avatar": "https://randomuser.me/api/portraits/women/84.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Makeup Brush Set",
+      "price": 39.99,
+      "offerPrice": 34.99,
+      "image": "makeup-brush-set.jpg",
+      "images": [
+        "makeup-brush-set.jpg",
+        "makeup-brush-set-1.jpg",
+        "makeup-brush-set-2.jpg",
+        "makeup-brush-set-3.jpg"
+      ],
+      "category": "Tools",
+      "rating": 4.0,
+      "testimonials": []
+    },
+    {
+      "id": 8,
+      "title": "Curl Defining Cream",
+      "price": 19.99,
+      "offerPrice": 16.99,
+      "image": "curl-defining-cream.jpg",
+      "images": [
+        "curl-defining-cream.jpg",
+        "curl-defining-cream-1.jpg",
+        "curl-defining-cream-2.jpg",
+        "curl-defining-cream-3.jpg"
+      ],
+      "category": "Haircare",
+      "rating": 3.8,
+      "testimonials": [
+        {
+          "name": "Sneha T.",
+          "text": "Curl defining cream works wonders for my curls.",
+          "avatar": "https://randomuser.me/api/portraits/women/82.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Long-lasting Foundation",
+      "price": 32.99,
+      "offerPrice": 27.99,
+      "image": "long-lasting-foundation.jpg",
+      "images": [
+        "long-lasting-foundation.jpg",
+        "long-lasting-foundation-1.jpg",
+        "long-lasting-foundation-2.jpg",
+        "long-lasting-foundation-3.jpg"
+      ],
+      "category": "Makeup",
+      "rating": 4.2,
+      "testimonials": []
+    },
+    {
+      "id": 10,
+      "title": "Vitamin C Night Cream",
+      "price": 36.99,
+      "offerPrice": 31.99,
+      "image": "vitamin-c-night-cream.jpg",
+      "images": [
+        "vitamin-c-night-cream.jpg",
+        "vitamin-c-night-cream-1.jpg",
+        "vitamin-c-night-cream-2.jpg",
+        "vitamin-c-night-cream-3.jpg"
+      ],
+      "category": "Skincare",
+      "rating": 4.7,
+      "testimonials": [
+        {
+          "name": "Ritu S.",
+          "text": "Vitamin C night cream improved my skin texture.",
+          "avatar": "https://randomuser.me/api/portraits/women/88.jpg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Floral Body Mist",
+      "price": 24.99,
+      "offerPrice": 19.99,
+      "image": "floral-body-mist.jpg",
+      "images": [
+        "floral-body-mist.jpg",
+        "floral-body-mist-1.jpg",
+        "floral-body-mist-2.jpg",
+        "floral-body-mist-3.jpg"
+      ],
+      "category": "Fragrance",
+      "rating": 4.0,
+      "testimonials": [
+        {
+          "name": "Neha L.",
+          "text": "Floral body mist is so refreshing and light.",
+          "avatar": "https://randomuser.me/api/portraits/women/83.jpg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Facial Cleansing Brush",
+      "price": 29.99,
+      "offerPrice": 24.99,
+      "image": "facial-cleansing-brush.jpg",
+      "images": [
+        "facial-cleansing-brush.jpg",
+        "facial-cleansing-brush-1.jpg",
+        "facial-cleansing-brush-2.jpg",
+        "facial-cleansing-brush-3.jpg"
+      ],
+      "category": "Tools",
+      "rating": 3.5,
+      "testimonials": []
+    }
+  ]
+}
+
